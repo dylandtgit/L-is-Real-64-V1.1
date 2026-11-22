@@ -20,4 +20,5 @@ Original Promotional Video - https://youtu.be/Cdl-QnaPODA
 
 I’ve still been trying to get level exports to work but to no avail, and that’s a problem. But in contrast to that, i’ve fixed a couple audio issues with Decomplicator and i’ve been able to add new voice clips and sound effects! But I haven’t been on my computer a lot lately, so there’s generally been no progress other than that.
 
-I’ve also been working to get GitTrack working in my discord server for this repository.
+<img width="623" height="467" alt="image" src="https://github.com/user-attachments/assets/bd4d5723-48e8-4a69-90f9-39d0c62819be" />
+<img width="624" height="468" alt="image" src="https://github.com/user-attachments/assets/e75b02e7-c72c-4ad9-a788-d63633f6b67c" />
