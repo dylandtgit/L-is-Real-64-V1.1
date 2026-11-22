@@ -1,3 +1,9 @@
+## Instructions
+
+In order to play this hack, you’ll need to patch the .bps with a .z64 file.
+
+- https://hack64.net/tools/patcher.php
+
 ## October 6, 2026 - The Revivial
 
 After 4 years, I've returned to bring back what I left behind. Now, I know a majority of people reading this aren't familiar with the project, but I've decided that I'm going to bring it back!
